@@ -1,0 +1,4 @@
+[FILTER]
+    Name    modify
+    Match   *
+    Add     cluster dev
