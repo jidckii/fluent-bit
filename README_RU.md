@@ -1,4 +1,4 @@
-# fluent-bit docker lables
+# fluent-bit docker labels
 
 [EN](https://github.com/jidckii/fluent-bit/blob/master/README.md)
 
